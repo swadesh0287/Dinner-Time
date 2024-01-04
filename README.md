@@ -1,4 +1,4 @@
-# Taste of India - A Food Ordering App
+# Dinner Time - A Food Ordering App
 
 Welcome to Dinner Time where the love for great food meets the convenience of online ordering. Our food ordering app provides a seamless and delightful experience for users looking to explore a variety of cuisines, discover local favorites, and satisfy their cravings with just a few clicks.
 

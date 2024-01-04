@@ -1,6 +1,6 @@
 # Taste of India - A Food Ordering App
 
-Welcome to Taste of India where the love for great food meets the convenience of online ordering. Our food ordering app provides a seamless and delightful experience for users looking to explore a variety of cuisines, discover local favorites, and satisfy their cravings with just a few clicks.
+Welcome to Dinner Time where the love for great food meets the convenience of online ordering. Our food ordering app provides a seamless and delightful experience for users looking to explore a variety of cuisines, discover local favorites, and satisfy their cravings with just a few clicks.
 
 ## Key Features:
 
@@ -58,10 +58,7 @@ Welcome to Taste of India where the love for great food meets the convenience of
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/food-ordering-app.git
+1. Clone the repository
 
 2. Install necessary packages using "npm i [package-name]" mentioned in package.json file.
 

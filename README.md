@@ -66,5 +66,5 @@ Welcome to Taste of India where the love for great food meets the convenience of
 2. Install necessary packages using "npm i [package-name]" mentioned in package.json file.
 
 ### Connect with me 
--  [Linkedin](https://www.linkedin.com/in/vishakha-singhal-18983b1bb/)
--  [Github](https://github.com/vishakha-singhal01)
+-  [Linkedin](https://www.linkedin.com/in/swadesh-kumar/)
+-  [Github](https://github.com/swadesh0287)
